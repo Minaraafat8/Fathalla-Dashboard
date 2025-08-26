@@ -10,3 +10,4 @@ Clear KPIs: Total Sales, Total Profit, and Total Cost.
 Simple and user-friendly layout for quick understanding.
 Excel → Data cleaning, formulas, pivot tables.
 data/ → contains raw and cleaned sales datasets
+![Uploading image.png…]()
