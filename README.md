@@ -10,4 +10,6 @@ Clear KPIs: Total Sales, Total Profit, and Total Cost.
 Simple and user-friendly layout for quick understanding.
 Excel → Data cleaning, formulas, pivot tables.
 data/ → contains raw and cleaned sales datasets
-![Uploading image.png…]()
+Data of Fathalla srore:https://1drv.ms/x/c/c70e7b1c9f586247/EVUBllON_9NAmGB7WxJlx5wB8ZSX1lVEeCC3jk61gSGKoQ?e=zx7YW3
+<img width="1310" height="643" alt="image" src="https://github.com/user-attachments/assets/56b0cbda-f766-4f7c-9c2c-808b4b9b6b19" />
+
